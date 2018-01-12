@@ -34,4 +34,3 @@ Per eseguire il programma è sufficiente eseguire 2 passi:
   ```
 2  mpirun -np "number_processors" --host IPHOST1,....,IPHOSTN matrix_m
  ```
-# Matrix-Multiplication
